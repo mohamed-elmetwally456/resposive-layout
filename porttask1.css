@@ -1,0 +1,26 @@
+
+  .sec2 {
+    display: block;
+    gap: 0px;
+    margin-top: 2%;
+  }
+  .sec2 img {
+    width: 450px;
+    margin-left: 15px;
+  }
+  .sec2 p {
+    text-align: center;
+    margin-left: 20px;
+  }
+  .art2 p {
+    opacity: 0;
+  }
+  .art2 p:hover {
+    opacity: 1;
+  }
+  .art2 {
+    opacity: 0.5;
+  }
+  .art2:hover {
+    opacity: 1;
+  }
